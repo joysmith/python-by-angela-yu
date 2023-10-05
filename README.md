@@ -1,7 +1,6 @@
 <details>
 
 <summary>👨🏻‍🎓 Beginner, Day 1-14</summary>]()
-[Projects](https://www.vanillajavascriptprojects.com/)
 
 ### 👨🏻‍🎓 Beginner
 
@@ -290,7 +289,3 @@ PostgreSQL
 Authentication
 Web Design
 Deployment with GitHub Pages, Heroku and GUnicorn
-
-[Projects](https://www.vanillajavascriptprojects.com/)
-
-[Projects](https://www.vanillajavascriptprojects.com/ "mdn")
