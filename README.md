@@ -71,9 +71,7 @@
 
 ### 🏋🏻‍♂️ Intermediate
 
-#### ❌ 15. [Local Development Environment Setup & the Coffee Machine Project](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/
-
-15%20Local%20Development%20Environment%20Setup%20%26%20the%20Coffee%20Machine%20Project)
+#### ❌ 15. [Local Development Environment Setup & the Coffee Machine Project](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/15%20Local%20Development%20Environment%20Setup%20%26%20the%20Coffee%20Machine%20Project)
 
 - Topics: Setup Local Development Environment and Coffee Machine Project, PEP8 Style Guide, Functions, Using Pycharm
 
@@ -371,41 +369,29 @@
 
 - Topics: Seaborn, Plotly
 
-#### ❌ 82. [Portfolio Project - A website to show off your skills and the things I built](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/
+#### ❌ 82. [Portfolio Project - A website to show off your skills and the things I built](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/82%20Portfolio%20Project%20-%20A%20website%20to%20show%20off%20your%20skills%20and%20the%20things%20I%20built)
 
 -
 
-82%20Portfolio%20Project%20-%20A%20website%20to%20show%20off%20your%20skills%20and%20the%20things%20I%20built)
-
-#### ❌ 83. [Portfolio Project - Built a text-based version of the Tic Tac Toe game](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/
+#### ❌ 83. [Portfolio Project - Built a text-based version of the Tic Tac Toe game](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/83%20Portfolio%20Project%20-%20Built%20a%20text-based%20version%20of%20the%20Tic%20Tac%20Toe%20game)
 
 -
 
-83%20Portfolio%20Project%20-%20Built%20a%20text-based%20version%20of%20the%20Tic%20Tac%20Toe%20game)
-
-#### ❌ 84. [Portfolio Project - A program where you can upload images and add a watermark](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/
+#### ❌ 84. [Portfolio Project - A program where you can upload images and add a watermark](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/84%20Portfolio%20Project%20-%20A%20program%20where%20you%20can%20upload%20images%20and%20add%20a%20watermark)
 
 -
 
-84%20Portfolio%20Project%20-%20A%20program%20where%20you%20can%20upload%20images%20and%20add%20a%20watermark)
-
-#### ❌ 85. [Portfolio Project - A Tkinter GUI desktop application that tests your typing speed](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/
+#### ❌ 85. [Portfolio Project - A Tkinter GUI desktop application that tests your typing speed](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/85%20Portfolio%20Project%20-%20A%20Tkinter%20GUI%20desktop%20application%20that%20tests%20your%20typing%20speed)
 
 -
 
-85%20Portfolio%20Project%20-%20A%20Tkinter%20GUI%20desktop%20application%20that%20tests%20your%20typing%20speed)
-
-#### ❌ 86. [Portfolio Project - Using Python Turtle, build a clone of the 80s hit game Breakout](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/
+#### ❌ 86. [Portfolio Project - Using Python Turtle, build a clone of the 80s hit game Breakout](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/86%20Portfolio%20Project%20-%20Using%20Python%20Turtle%2C%20build%20a%20clone%20of%20the%2080s%20hit%20game%20Breakout)
 
 -
 
-86%20Portfolio%20Project%20-%20Using%20Python%20Turtle%2C%20build%20a%20clone%20of%20the%2080s%20hit%20game%20Breakout)
-
-#### ❌ 87. [Portfolio Project - Built a website that lists cafes with wifi and power for remote working](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/
+#### ❌ 87. [Portfolio Project - Built a website that lists cafes with wifi and power for remote working](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/87%20Portfolio%20Project%20-%20Built%20a%20website%20that%20lists%20cafes%20with%20wifi%20and%20power%20for%20remote%20working)
 
 -
-
-87%20Portfolio%20Project%20-%20Built%20a%20website%20that%20lists%20cafes%20with%20wifi%20and%20power%20for%20remote%20working)
 
 #### ❌ 88. [Portfolio Project - Built a todo list website with Flask](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/88%20Portfolio%20Project%20-%20Built%20a%20todo%20list%20website%20with%20Flask)
 
