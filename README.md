@@ -226,23 +226,23 @@
 
 #### ❌ 91. [Portfolio Project - Image Colour Palette Generator](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/91%20Portfolio%20Project%20-%20Image%20Colour%20Palette%20Generator)
 
-#### ❌ 92. [Portfolio Project - Built a custom web scraper to collect data]()
+#### ❌ 92. [Portfolio Project - Built a custom web scraper to collect data](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/92%20Portfolio%20Project%20-%20Built%20a%20custom%20web%20scraper%20to%20collect%20data)
 
-#### ❌ 93. [Portfolio Project - Automate the Google Dinosaur Game]()
+#### ❌ 93. [Portfolio Project - Automate the Google Dinosaur Game](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/93%20Portfolio%20Project%20-%20Automate%20the%20Google%20Dinosaur%20Game)
 
-#### ❌ 94. [Portfolio Project - Space Invaders]()
+#### ❌ 94. [Portfolio Project - Space Invaders](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/94%20Portfolio%20Project%20-%20Space%20Invaders)
 
-#### ❌ 95. [Portfolio Project - Built a custom website using an API]()
+#### ❌ 95. [Portfolio Project - Built a custom website using an API](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/95%20Portfolio%20Project%20-%20Built%20a%20custom%20website%20using%20an%20API)
 
-#### ❌ 96. [Portfolio Project - An eCommerce website with payment processing]()
+#### ❌ 96. [Portfolio Project - An eCommerce website with payment processing](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/96%20Portfolio%20Project%20-%20An%20eCommerce%20website%20with%20payment%20processing)
 
-#### ❌ 97. [Portfolio Project - Sent a WhatsApp Message with Python]()
+#### ❌ 97. [Portfolio Project - Sent a WhatsApp Message with Python](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/97%20Portfolio%20Project%20-%20Sent%20a%20WhatsApp%20Message%20with%20Python)
 
-#### ❌ 98. [Portfolio Project - Analysed and Visualise the Space Race]()
+#### ❌ 98. [Portfolio Project - Analysed and Visualise the Space Race](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/98%20Portfolio%20Project%20-%20Analysed%20and%20Visualise%20the%20Space%20Race)
 
-#### ❌ 99. [Portfolio Project - Analyzing Deaths involving Police in the United States]()
+#### ❌ 99. [Portfolio Project - Analyzing Deaths involving Police in the United States](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/99%20Portfolio%20Project%20-%20Analyzing%20Deaths%20involving%20Police%20in%20the%20United%20States)
 
-#### ❌100. [Portfolio Project - Predicting Earnings using Multivariable Regression]()
+#### ❌100. [Portfolio Project - Predicting Earnings using Multivariable Regression](https://github.com/joysmith/python-by-angela-yu/tree/main/5%20Professional/100%20Portfolio%20Project%20-%20Predicting%20Earnings%20using%20Multivariable%20Regression)
 
 </details>
 
