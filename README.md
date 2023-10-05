@@ -250,7 +250,6 @@
 <br>
 <br>
 <br>
-<br>
 
 ### Tools and technologies
 
