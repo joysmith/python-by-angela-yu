@@ -4,7 +4,7 @@
 
 ### 👨🏻‍🎓 Beginner
 
-#### ❌ 1. [Working with Variables in Python to Manage Data]()
+#### ❌ 1. [Working with Variables in Python to Manage Data](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/01%20Working%20with%20Variables%20in%20Python%20to%20Manage%20Data)
 
 #### ❌ 2. [Understanding Data Types and How to Manipulate Strings]()
 
