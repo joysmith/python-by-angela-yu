@@ -6,31 +6,31 @@
 
 #### ❌ 1. [Working with Variables in Python to Manage Data](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/01%20Working%20with%20Variables%20in%20Python%20to%20Manage%20Data)
 
-#### ❌ 2. [Understanding Data Types and How to Manipulate Strings]()
+#### ❌ 2. [Understanding Data Types and How to Manipulate Strings](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/02%20Understanding%20Data%20Types%20and%20How%20to%20Manipulate%20Strings)
 
-#### ❌ 3. [Control Flow and Logical Operators]()
+#### ❌ 3. [Control Flow and Logical Operators](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/03%20Control%20Flow%20and%20Logical%20Operators)
 
-#### ❌ 4. [Randomisation and Python Lists]()
+#### ❌ 4. [Randomisation and Python Lists](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/04%20Randomisation%20and%20Python%20Lists)
 
-#### ❌ 5. [Python Loops]()
+#### ❌ 5. [Python Loops](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/05%20Python%20Loops)
 
-#### ❌ 6. [Python Functions & Karel]()
+#### ❌ 6. [Python Functions & Karel](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/06%20Python%20Functions%20%26%20Karel)
 
-#### ❌ 7. [Hangman]()
+#### ❌ 7. [Hangman](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/07%20Hangman)
 
-#### ❌ 8. [Function Parameters & Caesar Cipher]()
+#### ❌ 8. [Function Parameters & Caesar Cipher](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/08%20Function%20Parameters%20%26%20Caesar%20Cipher)
 
-#### ❌ 9. [Dictionaries, Nesting and the Secret Auction]()
+#### ❌ 9. [Dictionaries, Nesting and the Secret Auction](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/09%20Dictionaries%2C%20Nesting%20and%20the%20Secret%20Auction)
 
-#### ❌ 10. [Function Return Values and the Calculator Project]()
+#### ❌ 10. [Function Return Values and the Calculator Project](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/10%20Function%20Return%20Values%20and%20the%20Calculator%20Project)
 
-#### 🏁 11. [Blackjack Capstone Project]()
+#### 🏁 11. [Blackjack Capstone Project](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/11%20Blackjack%20Capstone%20Project)
 
-#### ❌ 12. [Scope and Namespacing in Python]()
+#### ❌ 12. [Scope and Namespacing in Python](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/12%20Scope%20and%20Namespacing%20in%20Python)
 
-#### ❌ 13. [Debugging: How to Find and Fix Errors in your Code]()
+#### ❌ 13. [Debugging: How to Find and Fix Errors in your Code](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/13%20Debugging%20How%20to%20Find%20and%20Fix%20Errors%20in%20your%20Code)
 
-#### ❌ 14. [Higher Lower Game Project]()
+#### ❌ 14. [Higher Lower Game Project](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/14%20Higher%20Lower%20Game%20Project)
 
 </details>
 
@@ -252,7 +252,8 @@
 <br>
 <br>
 
-Tools and technologies
+### Tools and technologies
+
 Python 3
 PyCharm, Jupyter Notebook, Google Colab
 Python Scripting and Automation
